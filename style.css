@@ -1,0 +1,17 @@
+.category {
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+td.category_header {
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+.food_type {
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+}
