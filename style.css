@@ -1,17 +1,32 @@
+h1 {
+  color: #00008b;
+}
+
+h2 {
+  color: #8b0000;
+}
+
+h3 {
+  color: #006400;
+}
+
 .category {
   border: 1px;
   border-color: black;
   border-style: solid;
+  background-color: #f08080;
 }
 
 td.category_header {
   border: 1px;
   border-color: black;
   border-style: solid;
+  background-color: #e0ffff;
 }
 
 .food_type {
   border: 1px;
   border-color: black;
   border-style: solid;
+  background-color: #d3d3d3;
 }
