@@ -8,25 +8,51 @@ h2 {
 
 h3 {
   color: #006400;
+  text-align: center;
+  text-decoration: underline;
 }
 
-.category {
-  border: 1px;
+table.category {
+  border: 2px;
   border-color: black;
   border-style: solid;
   background-color: #f08080;
+  padding: 10px;
 }
 
 td.category_header {
-  border: 1px;
+  border: 2px;
   border-color: black;
-  border-style: solid;
-  background-color: #e0ffff;
+  border-style: dashed;
+  background-color: #11cf24;
+  text-align: center;
 }
 
-.food_type {
-  border: 1px;
+table.food {
+  border: 3px;
+  border-color: black;
+  border-style: dotted;
+  background-color: #d3d3d3;
+  height: 200px;
+  width: 160px;
+  margin: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.row {
+  display: flex;
+  margin: 20px;
+}
+
+.column {
+  margin: 10px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border: 2px;
   border-color: black;
   border-style: solid;
-  background-color: #d3d3d3;
 }
