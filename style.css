@@ -40,12 +40,12 @@ table.food {
   padding-right: 10px;
 }
 
-.row {
+.pantry_row, .fridge_row, .freezer_row, .drinks_row {
   display: flex;
   margin: 20px;
 }
 
-.column {
+.pantry_lists_section, .fridge_lists_section, .freezer_lists_section, .drinks_lists_section {
   margin: 10px;
 }
 
